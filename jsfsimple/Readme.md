@@ -1,6 +1,8 @@
 # Simple JSF Demo
 ## Requirements
 * Java EE 8 application server
+    * JSF 2.3
+    * EL 3.0
 * Maven 3
 
 ## Properties
